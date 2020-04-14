@@ -15,7 +15,7 @@
 
 ### 动图展示: 
 
-<img src="https://raw.githubusercontent.com/lchkid/VueMall/master/images/home.gif" style="zoom: 50%;" /> img src="https://raw.githubusercontent.com/lchkid/VueMall/master/images/category.gif" style="zoom:50%;" /> <img src="https://raw.githubusercontent.com/lchkid/VueMall/master/images/cart.gif" style="zoom:50%;" /> <img src="https://raw.githubusercontent.com/lchkid/VueMall/master/images/detail.gif" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/lchkid/VueMall/master/images/home.gif" style="zoom:50%;" /> <img src="https://raw.githubusercontent.com/lchkid/VueMall/master/images/category.gif" style="zoom:50%;" /> <img src="https://raw.githubusercontent.com/lchkid/VueMall/master/images/cart.gif" style="zoom:50%;" /> <img src="https://raw.githubusercontent.com/lchkid/VueMall/master/images/detail.gif" style="zoom:50%;" />
 
 ## Project setup
 
