@@ -8,6 +8,7 @@
 - vue-axios
 - vue-lazyload
 - better-scroll
+- postcss-px-to-viewport
 
 ### 界面展示: 
 
