@@ -2,13 +2,13 @@
 
 ## 界面展示: 
 
-![](C:\Users\rickee\Documents\WebStudy\VueMall\images\show.png)
+![](https://raw.githubusercontent.com/lchkid/VueMall/master/images/show.png)
 
 
 
 ## 动图展示: 
 
-<img src="C:\Users\rickee\Documents\WebStudy\VueMall\images\home.gif" style="zoom: 50%;" /> <img src="C:\Users\rickee\Documents\WebStudy\VueMall\images\category.gif" style="zoom:50%;" /> <img src="C:\Users\rickee\Documents\WebStudy\VueMall\images\cart.gif" style="zoom:50%;" /> <img src="C:\Users\rickee\Documents\WebStudy\VueMall\images\detail.gif" style="zoom:50%;" />
+<img src="https://raw.githubusercontent.com/lchkid/VueMall/master/images/home.gif" style="zoom: 50%;" /> <img src="https://raw.githubusercontent.com/lchkid/VueMall/master/images/category.gif" style="zoom:50%;" /> <img src="https://raw.githubusercontent.com/lchkid/VueMall/master/images/cart.gif" style="zoom:50%;" /> <img src="https://raw.githubusercontent.com/lchkid/VueMall/master/images/detail.gif" style="zoom:50%;" />
 
 
 
